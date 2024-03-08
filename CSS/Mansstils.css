@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 16, 2024, 2:28:42 PM
+    Author     : rzeltins6
+*/
+
+*{
+                
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            body{
+                background-color:pink;  
+                margin: 10vh 10vw;
+            }
+            table {
+              font-family: arial;
+              border-collapse: collapse;
+              width: 100%;
+            }
+
+            td, th {
+              border: 5px solid #dddddd;
+              text-align: center;
+              padding: 10px;
+            }
+
+            tr:nth-child(even) {
+
+            }
